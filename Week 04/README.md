@@ -1,6 +1,6 @@
-## Homework
+# Homework
 
-Joining Flat Files with Vector Layers</span>
+## Joining Flat Files with Vector Layers
 
 Looking at (one aspect of) the digital divide in Pennsylvania.
 

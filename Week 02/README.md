@@ -1,8 +1,8 @@
-Homework for this week
+# Homework for this week
 
 ### Linux practice:
 
-We need to get comfortable with Linux. Check out a book, work through some tutorials, install some software you think you'll find useful, try and break your system&mdash;whatever it is you need to do to get comfortable working with Linux and especially on the command line. (Track the time you spend on this, please.) 
+We need to get comfortable with Linux. Check out a book, work through some tutorials, install some software you think you'll find useful, try and break your system&mdash;whatever it is you need to do to get comfortable working with Linux and especially on the command line. (Track the time you spend on this, please.)
 
 If you somehow do successfully break your system, first off: it happens, no biggie; document what went wrong. Maybe we can fix it. Secondly: I can issue you a new one, with some help from ITS, but it won't be immediate, so let me know as soon as you can.
 
